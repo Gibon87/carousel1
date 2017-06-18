@@ -1,0 +1,33 @@
+.container {
+}
+
+#carousel {
+    border: 2px solid black;
+    margin: 0 auto;
+    height: 300px;
+    width: 400px;
+    overflow: hidden;
+    position: relative;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left : 0;
+    height: 300px;
+    position: relative;
+    width: 2000px;
+}
+
+.example {
+    list-style: none;
+    width: 400px;
+    height: 300px;
+    float: left;
+    
+}
+img {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+}
